@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppColegio</string>
+    
+    <string name="labelCurso">Ingresa Nombre del Curso</string>
+    <string name="labelCredito">Ingresa Credito</string>
+    <string name="labelHoras">Ingresa Horas</string>
+    <string name="labelCarrera">Selecciona Carrera</string>
+    <string-array name="simple_items">
+        <item>Ingieneria</item>
+        <item>Historia</item>
+        <item>Redes</item>
+    </string-array>
+</resources>
